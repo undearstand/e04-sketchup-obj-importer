@@ -2,6 +2,8 @@
 
 **Version 1.0.0** | Author: undearstand
 
+<img width="608" height="397" alt="e04" src="https://github.com/user-attachments/assets/7f3c4c60-2fe5-4460-bfbf-8af7caedee95" />
+
 ---
 
 [中文說明](#中文說明) | [English](#english)
@@ -213,3 +215,4 @@ load 'e04_obj_importer/main.rb'
 MIT License
 
 Copyright (c) 2026 undearstand
+
